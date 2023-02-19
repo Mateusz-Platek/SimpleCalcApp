@@ -1,0 +1,15 @@
+G:\repos\SimpleCalcApp\SimpleCalcApp\bin\Debug\net7.0\SimpleCalcApp.exe
+G:\repos\SimpleCalcApp\SimpleCalcApp\bin\Debug\net7.0\SimpleCalcApp.deps.json
+G:\repos\SimpleCalcApp\SimpleCalcApp\bin\Debug\net7.0\SimpleCalcApp.runtimeconfig.json
+G:\repos\SimpleCalcApp\SimpleCalcApp\bin\Debug\net7.0\SimpleCalcApp.dll
+G:\repos\SimpleCalcApp\SimpleCalcApp\bin\Debug\net7.0\SimpleCalcApp.pdb
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.csproj.AssemblyReference.cache
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.AssemblyInfoInputs.cache
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.AssemblyInfo.cs
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.csproj.CoreCompileInputs.cache
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.dll
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\refint\SimpleCalcApp.dll
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.pdb
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\SimpleCalcApp.genruntimeconfig.cache
+G:\repos\SimpleCalcApp\SimpleCalcApp\obj\Debug\net7.0\ref\SimpleCalcApp.dll
