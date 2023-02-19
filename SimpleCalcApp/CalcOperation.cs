@@ -8,8 +8,8 @@ namespace SimpleCalcApp
 {
     public static class CalcOperation
     {
-        private static double a = 0;
-        private static double b = 0;
+        private static double a = 0.0;
+        private static double b = 0.0;
 
         public static double A {   
             get
@@ -47,13 +47,18 @@ namespace SimpleCalcApp
             return a - b;
         }
 
-        public static double multiply()
+        public static double multiplication()
         {
             return a * b;
         }
 
-        public static double divide()
+        public static double division()
         {
+            if (double.IsNaN(a / b) || double.IsInfinity(a / b))
+            {
+                Console.WriteLine("Divided by 0");
+                return 0;
+            }
             return a / b;
         }
     }
